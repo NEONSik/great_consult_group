@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22ce36e4-1fd2-45b1-b269-87a040fa043d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dB86jz4AULdvhdWie7K2X5nPoU" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lizaFrontend" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programmaning\great_consult_group\lazarev" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programmaning\great_consult_group\lazarev" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22ce36e4-1fd2-45b1-b269-87a040fa043d" name="Default Changelist" comment="" />
+      <created>1591886953339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591886953339</updated>
+      <workItem from="1591886954557" duration="13486000" />
+      <workItem from="1591943128784" duration="21685000" />
+      <workItem from="1592056629015" duration="4513000" />
+      <workItem from="1592073363963" duration="32000" />
+      <workItem from="1592148868379" duration="2369000" />
+      <workItem from="1592216022397" duration="20678000" />
+      <workItem from="1592303344562" duration="4246000" />
+      <workItem from="1592322139872" duration="7952000" />
+      <workItem from="1592387959734" duration="8791000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
